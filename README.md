@@ -12,6 +12,6 @@ Ghost Wallet Scanner — это утилита на Python, которая ищ�
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/yourname/ghost-wallet-scanner.git
+git clone https://github.com/varyadanilkinacrypto/ghost-wallet-scanner.git
 cd ghost-wallet-scanner
 pip install -r requirements.txt
